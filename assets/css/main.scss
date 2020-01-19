@@ -39,7 +39,7 @@ body {
   left: 0;
   height: 100%;
   overflow-y: auto;
-  width: 260px;
+  width: 300px;
   z-index: 99;
   -webkit-transition: transform 0.4s ease;
   transition: transform 0.4s ease;
@@ -157,6 +157,8 @@ body {
   -webkit-transition: border-color 0.35s ease-in-out;
   -moz-transition: border-color 0.35s ease-in-out;
   transition: border-color 0.35s ease-in-out;
+  margin-left: 30%;
+  margin-right: auto;
 }
 
 #avatar:hover>a {
@@ -187,7 +189,7 @@ body {
 #site-title a {
   color: #b6b6b6;
   font-weight: 900;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   letter-spacing: .5px;
 }
 
@@ -1265,7 +1267,8 @@ div.tooltip-inner { /* Overrided BS4 Tooltip */
   #profile-wrapper {
     margin-top: 4rem;
     margin-bottom: 3rem;
-    padding-left: 18%;
+    padding-left: 8%;
+    padding-right: 1%;
     -ms-flex-direction: column!important;
   }
 

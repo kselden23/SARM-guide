@@ -1,4 +1,14 @@
-# Keith’s definitive guide to SARMS 
+---
+layout: post
+title: SARMs Guide
+
+---
+
+
+
+
+
+
 
 <details>
 <summary>1.	What are SARMs?</summary>
@@ -13,9 +23,17 @@ SARMs are a classification of drugs that were discovered in the late 1940s and h
 <details>
 <summary>2.	Why SARMs?</summary>
 
-```
+
 Steroids have long been advertised to give massive muscle gains in short time frames. What is less commonly broadcasted are the many harsh side effects that can cause long term damage such as hair loss, anger, acne, and even testosterone production suppression or even shutdown. For many, the benefits are not worth the risks. Pro hormones promised gains with less side effects, but after their banning in 2015 they have been harder to find. SARMs do not promise the shocking results of steroids but have repeatedly shown moderate increases in lean muscle with few to any negative side effects. A common standard of measurement for side effects is the anabolic to androgenic ratio. Anabolic properties are responsible for muscle and tissue growth. The androgenic properties are the masculinizing results such as deepening of the voice, increased body hair, as well as testosterone suppression. Those wanting to build muscle desire the anabolic affects without the androgenic affects. Testosterone has an anabolic to androgenic ratio of 1:1 and is often used as a baseline since it is created naturally in the body. Many steroids have ratios of 100:100 or even 400:400. This is the reasoning behind their massive muscle gains as well as the heavy side effects. On the other hand, SARMs have much more favorable ratios. One of the most common SARMs, Ligandrol, has an A to A ratio of 10:1. This means it has 10 times the anabolic effect on muscle as testosterone, and the same anabolic affect.
-```
+
+<br>
+<br>
+<figure>
+    <a href="{{site.url}}/assets/AtoA.png"><img src="{{site.url}}/assets/AtoA.png"></a>
+</figure>
+
+
+
 
 </details>
 

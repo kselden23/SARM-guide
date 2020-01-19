@@ -8,15 +8,15 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Keith's Fitness Guide                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: An overview of different fitness topics.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
+ 
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'SARM-guide.github.io'
 
 author: your_full_name                  # change to your full name
 
